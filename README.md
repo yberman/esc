@@ -15,3 +15,7 @@ python3 esc.py --ngon 5 --points 9 > temp.cnf
 ```
 
 See also `run.sh`.
+
+## points
+
+I've included some code here for manipulating sets of points on the plane.
